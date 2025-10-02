@@ -1,0 +1,12 @@
+# Login Template
+
+# This file can be used as a template for implementing a login system.
+
+# Fields:
+# - Username
+# - Password
+
+# Actions:
+# - Validate user credentials
+# - Handle login success
+# - Handle login failure
