@@ -1,12 +1,2 @@
-# Login Template
+Mashrafe_Uddin_Tarafder
 
-# This file can be used as a template for implementing a login system.
-
-# Fields:
-# - Mashrafe
-# - Password
-
-# Actions:
-# - Validate user credentials
-# - Handle login success
-# - Handle login failure
