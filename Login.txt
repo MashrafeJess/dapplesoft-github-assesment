@@ -3,7 +3,7 @@
 # This file can be used as a template for implementing a login system.
 
 # Fields:
-# - Username
+# - Mashrafe
 # - Password
 
 # Actions:
